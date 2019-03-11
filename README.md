@@ -10,10 +10,18 @@ No CSS has been used except for setting the dimensions of canvas element. Its pu
 
 ![Alt Text](https://media.giphy.com/media/2WjreYqybFKgXoICJl/giphy.gif)
 
-**"Emscripten is an Open Source LLVM to JavaScript compiler. Using Emscripten you can:
-*Compile C and C++ code into JavaScript
-*Compile any other code that can be translated into LLVM bitcode into JavaScript.
-*Compile the C/C++ runtimes of other languages into JavaScript, and then run code in those other languages in an indirect way (this has been done for Python and Lua)!"**  - *says Official Emscripten Documentation.*
+Emscripten is an Open Source LLVM to JavaScript compiler. Using Emscripten you can:    
+
+
+ - Compile C and C++ code into JavaScript
+
+
+ - Compile any other code that can be translated into LLVM bitcode into JavaScript.
+
+
+ - Compile the C/C++ runtimes of other languages into JavaScript, and then run code in those other languages in an indirect way (this has been done for Python and Lua)!
+
+says Official Emscripten Documentation.
 
 For a fast tutorial: 
 **https://medium.com/@labruillere/emscripten-fast-tutorial-a42c701c23e0**
